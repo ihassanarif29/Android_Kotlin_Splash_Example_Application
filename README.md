@@ -1,0 +1,2 @@
+# Android_Kotlin_Splash_Example_Application
+Kotlin Splash Example Project
